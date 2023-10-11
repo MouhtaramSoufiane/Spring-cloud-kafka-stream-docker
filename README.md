@@ -83,7 +83,13 @@
 ## Analytics
 <img src="Captures/analytics.png"/>
 
+https://github.com/MouhtaramSoufiane/Spring-cloud-kafka-stream-docker/assets/104082651/a6efd2d9-86ec-423d-97d0-622a530027bf
+
 ## application Web Stream Data Analytics en temps réel
 ![image](https://github.com/MouhtaramSoufiane/Spring-cloud-kafka-stream-docker/assets/104082651/80df9bdc-ba7b-4de4-9389-9c9b8e66831e)
+### Video demo
+https://github.com/MouhtaramSoufiane/Spring-cloud-kafka-stream-docker/assets/104082651/8d2d718a-dfbd-409d-92b0-9a1c23038989
+
+
 
 
