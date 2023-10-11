@@ -84,6 +84,6 @@
 <img src="Captures/analytics.png"/>
 
 ## application Web Stream Data Analytics en temps réel
-<img src="Captures/chart.png" />
+![image](https://github.com/MouhtaramSoufiane/Spring-cloud-kafka-stream-docker/assets/104082651/80df9bdc-ba7b-4de4-9389-9c9b8e66831e)
 
 
