@@ -44,7 +44,7 @@ public class PageEventService {
 //        return ()-> new PageEvent("name",Math.random()>0.5?"user1":"user2",new Date(),new Random().nextInt(9000));
 //
 //    }
-    @Bean
+//    @Bean
     public Function<PageEvent,PageEvent> pageEventFunction(){
         return (pageEvent -> {
             pageEvent.setName("Length :"+pageEvent.getName().length());
